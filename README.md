@@ -3,6 +3,8 @@
 
 Eu sou a Julia e tenho 20 anos 🤍
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijuhmsz=anuraghazra&hide=contribs,prs)
+
 ## Estudos
 
 🚀 Estudante de Análise e Desenvolvimento de Sistemas 
