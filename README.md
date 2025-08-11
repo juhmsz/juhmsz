@@ -1,16 +1,13 @@
-## Olá,  devs! 😎
+## Olá,  devs! 😎  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFEFD&width=435&lines=Sejam+bem+vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
-Sou a Julia e tenho 20 anos 🤍
+Eu sou a Julia e tenho 20 anos 🤍
 
 ## Estudos
 
-Sou estudante de Análise e Desenvolvimento de Sistemas 
+🚀 Estudante de Análise e Desenvolvimento de Sistemas 
 
-Aprofundando os conhecimentos de desenvolvimento web com JavaScript  
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:"60" weigth:"60"/>
-    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:60 weigth:60/>
+💻 Aprofundando os conhecimentos de desenvolvimento web com JavaScript
           
           
 
