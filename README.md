@@ -7,7 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFEFD&width=435&lines=Sejam+bem+vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 </div>
-Eu sou a Julia e tenho 20 anos 🤍
+  Eu sou a Julia e tenho 20 anos 🤍 
+
+  Estou passando por uma transição de carreira da área da educação para a tecnologia por ter um interesse crescente nessa área.    
+  Aqui nesse perfil pretendo postar toda minha evolução na programação mostrando desde atividades acadêmicas até projetos pessoais. Espero que de alguma forma eu possa auxiliar na carreira de outros desenvolvedores, assim como também desejo receber feedbacks para cada vez evoluir e aprender mais, para isso me procure nas redes sociais!
 
 <div align='center'>
           <h1>Estudos</h1>
