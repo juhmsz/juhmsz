@@ -17,9 +17,10 @@
 
 <p>🚀 Estudante de Análise e Desenvolvimento de Sistemas | 1°Semestre
 
-💻 Aprofundando os conhecimentos de desenvolvimento web com JavaScript, CSS e HTML</p>
+💻 Aprofundando os conhecimentos de programação em lingugem C e desenvolvimento web com JavaScript, CSS e HTML</p>
           
-<div align='center'>
+<div align='center'>  
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60" height="60"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="60" height="60"/>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" heigth="60" width="60"/>
